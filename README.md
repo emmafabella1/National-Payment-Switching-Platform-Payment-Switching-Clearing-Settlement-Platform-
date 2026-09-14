@@ -15,6 +15,10 @@ validates and routes them to the appropriate destination institution, processes 
 
 <img width="702" height="524" alt="image" src="https://github.com/user-attachments/assets/64cf79e1-e3a6-4eea-9843-fd1bdad1d9a0" />
 
+High level architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e67723c9-4c56-4b7e-9b93-9369556f313d" />
+
+
 
 
 
